@@ -1,0 +1,15 @@
+2025-05-18 21:13:07 [pool-1-thread-1] INFO  com.bdd.test.hooks.LoginHooks - Browser URL setup done
+2025-05-18 21:13:07 [pool-1-thread-1] INFO  com.bdd.test.stepdefintions.LoginSteps - User is in login page
+2025-05-18 21:13:08 [pool-1-thread-1] INFO  com.bdd.test.stepdefintions.LoginSteps - User entered valid credentials and clicked submit button in login page
+2025-05-18 21:13:08 [pool-1-thread-1] INFO  com.bdd.test.stepdefintions.LoginSteps - User logged in and navigated to inventory page
+2025-05-18 21:13:08 [pool-1-thread-1] INFO  com.bdd.test.hooks.LoginHooks - driver quit
+2025-05-18 21:13:11 [pool-1-thread-1] INFO  com.bdd.test.hooks.LoginHooks - Browser URL setup done
+2025-05-18 21:13:11 [pool-1-thread-1] INFO  com.bdd.test.stepdefintions.LoginSteps - User is in login page
+2025-05-18 21:13:11 [pool-1-thread-1] INFO  com.bdd.test.stepdefintions.LoginSteps - User entered valid credentials and clicked submit button in login page
+2025-05-18 21:13:11 [pool-1-thread-1] INFO  com.bdd.test.stepdefintions.LoginSteps - User logged in and navigated to inventory page
+2025-05-18 21:13:12 [pool-1-thread-1] INFO  com.bdd.test.hooks.LoginHooks - driver quit
+2025-05-18 21:13:14 [pool-1-thread-1] INFO  com.bdd.test.hooks.LoginHooks - Browser URL setup done
+2025-05-18 21:13:14 [pool-1-thread-1] INFO  com.bdd.test.stepdefintions.LoginSteps - User is in login page
+2025-05-18 21:13:14 [pool-1-thread-1] INFO  com.bdd.test.stepdefintions.LoginSteps - User entered invalid credentials and clicked submit button in login page
+2025-05-18 21:13:14 [pool-1-thread-1] INFO  com.bdd.test.stepdefintions.LoginSteps - User logged in and navigated to inventory page
+2025-05-18 21:13:14 [pool-1-thread-1] INFO  com.bdd.test.hooks.LoginHooks - driver quit
