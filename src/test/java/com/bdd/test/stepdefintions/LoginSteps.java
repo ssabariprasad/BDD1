@@ -11,7 +11,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import com.bdd.test.hooks.LoginHooks;
 import com.bdd.test.utility.SharedDriver;
 
 import io.cucumber.datatable.DataTable;
@@ -25,6 +24,8 @@ private static final Logger logger=LogManager.getLogger(LoginSteps.class);
 @Given("user is in login page of sauce demo")
 public void user_is_in_login_page_of_sauce_demo() {
     driver=SharedDriver.getDriver();
+	driver.get("https://www.saucedemo.com/");
+	logger.info("Browser URL setup done");
     driver.getTitle().equalsIgnoreCase("Swag Labs");
     logger.info("User is in login page");
 }

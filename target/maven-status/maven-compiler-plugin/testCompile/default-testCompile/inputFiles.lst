@@ -1,5 +1,7 @@
 D:\EWORKSPACE\BDD1\src\test\java\com\bdd\test\hooks\LoginHooks.java
 D:\EWORKSPACE\BDD1\src\test\java\com\bdd\test\hooks\ReportHooks.java
 D:\EWORKSPACE\BDD1\src\test\java\com\bdd\test\runner\TestRunner.java
+D:\EWORKSPACE\BDD1\src\test\java\com\bdd\test\stepdefintions\AutomationPracticeSteps.java
 D:\EWORKSPACE\BDD1\src\test\java\com\bdd\test\stepdefintions\LoginSteps.java
+D:\EWORKSPACE\BDD1\src\test\java\com\bdd\test\utility\LoggerUtility.java
 D:\EWORKSPACE\BDD1\src\test\java\com\bdd\test\utility\SharedDriver.java

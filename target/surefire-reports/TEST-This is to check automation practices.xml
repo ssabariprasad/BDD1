@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="this feature is to test login functionality validation" time="14.347" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="This is to check automation practices" time="8.183" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -56,7 +56,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="to check login using valid login credentials #1" classname="this feature is to test login functionality validation" time="7.959"/>
-  <testcase name="to check login using valid login credentials #2" classname="this feature is to test login functionality validation" time="3.251"/>
-  <testcase name="to check login using invalid login credentials" classname="this feature is to test login functionality validation" time="3.134"/>
+  <testcase name="basic checks in practice page" classname="This is to check automation practices" time="8.183"/>
 </testsuite>

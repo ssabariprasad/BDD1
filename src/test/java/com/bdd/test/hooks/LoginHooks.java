@@ -15,10 +15,9 @@ private static final Logger logger=LogManager.getLogger(LoginHooks.class);
 @Before
 public void setUp()
 {
-	
+
 	driver=SharedDriver.getDriver();
-	driver.get("https://www.saucedemo.com/");
-	logger.info("Browser URL setup done");
+	driver.manage().window().maximize();
 
 }
 

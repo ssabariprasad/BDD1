@@ -1,5 +1,7 @@
+com\bdd\test\utility\LoggerUtility.class
 com\bdd\test\runner\TestRunner.class
 com\bdd\test\utility\SharedDriver.class
 com\bdd\test\hooks\LoginHooks.class
 com\bdd\test\hooks\ReportHooks.class
 com\bdd\test\stepdefintions\LoginSteps.class
+com\bdd\test\stepdefintions\AutomationPracticeSteps.class
