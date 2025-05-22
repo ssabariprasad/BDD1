@@ -21,9 +21,9 @@ private SharedDriver()
 
 public static WebDriver getDriver()
 {
-	 if(driver.get()!=null) {
-			return driver.get();
-     }
+	 if(driver.get()==null) {
+			
+     
 	WebDriver webDriver=null;
 	FileReader reader;
 	Properties prop=new Properties();
@@ -56,7 +56,7 @@ public static WebDriver getDriver()
 	
 	}
 	
-	driver.set(webDriver);
+	driver.set(webDriver);}
 
 	return driver.get();
 }

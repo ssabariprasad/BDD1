@@ -132,3 +132,89 @@
 2025-05-22 19:00:00 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User entered invalid credentials and clicked submit button in login page
 2025-05-22 19:00:00 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User logged in and navigated to inventory page
 2025-05-22 19:00:01 [pool-1-thread-2] INFO  com.bdd.test.hooks.LoginHooks - driver quit
+2025-05-22 19:16:18 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - Browser URL setup done
+2025-05-22 19:16:18 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User is in login page
+2025-05-22 19:16:19 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User entered valid credentials and clicked submit button in login page
+2025-05-22 19:16:19 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User logged in and navigated to inventory page
+2025-05-22 19:16:20 [pool-1-thread-2] INFO  com.bdd.test.hooks.LoginHooks - driver quit
+2025-05-22 19:16:21 [pool-1-thread-1] INFO  com.bdd.test.stepdefintions.AutomationPracticeSteps - Automation practice site launched
+2025-05-22 19:16:21 [pool-1-thread-1] INFO  com.bdd.test.stepdefintions.AutomationPracticeSteps - Selected send text to text box
+2025-05-22 19:16:21 [pool-1-thread-1] INFO  com.bdd.test.stepdefintions.AutomationPracticeSteps - text displayed in text box successfully
+2025-05-22 19:16:22 [pool-1-thread-1] INFO  com.bdd.test.hooks.LoginHooks - driver quit
+2025-05-22 19:16:23 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - Browser URL setup done
+2025-05-22 19:16:23 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User is in login page
+2025-05-22 19:16:23 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User entered valid credentials and clicked submit button in login page
+2025-05-22 19:16:23 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User logged in and navigated to inventory page
+2025-05-22 19:16:24 [pool-1-thread-2] INFO  com.bdd.test.hooks.LoginHooks - driver quit
+2025-05-22 19:16:25 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - Browser URL setup done
+2025-05-22 19:16:25 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User is in login page
+2025-05-22 19:16:26 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User entered invalid credentials and clicked submit button in login page
+2025-05-22 19:16:26 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User logged in and navigated to inventory page
+2025-05-22 19:16:26 [pool-1-thread-2] INFO  com.bdd.test.hooks.LoginHooks - driver quit
+2025-05-22 19:16:50 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - Browser URL setup done
+2025-05-22 19:16:50 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User is in login page
+2025-05-22 19:16:51 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User entered valid credentials and clicked submit button in login page
+2025-05-22 19:16:51 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User logged in and navigated to inventory page
+2025-05-22 19:16:52 [pool-1-thread-1] INFO  com.bdd.test.stepdefintions.AutomationPracticeSteps - Automation practice site launched
+2025-05-22 19:16:52 [pool-1-thread-2] INFO  com.bdd.test.hooks.LoginHooks - driver quit
+2025-05-22 19:16:52 [pool-1-thread-1] INFO  com.bdd.test.stepdefintions.AutomationPracticeSteps - Selected send text to text box
+2025-05-22 19:16:52 [pool-1-thread-1] INFO  com.bdd.test.stepdefintions.AutomationPracticeSteps - text displayed in text box successfully
+2025-05-22 19:16:53 [pool-1-thread-1] INFO  com.bdd.test.hooks.LoginHooks - driver quit
+2025-05-22 19:16:55 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - Browser URL setup done
+2025-05-22 19:16:55 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User is in login page
+2025-05-22 19:16:55 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User entered valid credentials and clicked submit button in login page
+2025-05-22 19:16:55 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User logged in and navigated to inventory page
+2025-05-22 19:16:55 [pool-1-thread-2] INFO  com.bdd.test.hooks.LoginHooks - driver quit
+2025-05-22 19:16:57 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - Browser URL setup done
+2025-05-22 19:16:57 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User is in login page
+2025-05-22 19:16:58 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User entered invalid credentials and clicked submit button in login page
+2025-05-22 19:16:58 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User logged in and navigated to inventory page
+2025-05-22 19:16:58 [pool-1-thread-2] INFO  com.bdd.test.hooks.LoginHooks - driver quit
+2025-05-22 19:19:50 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - Browser URL setup done
+2025-05-22 19:19:50 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User is in login page
+2025-05-22 19:19:51 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User entered valid credentials and clicked submit button in login page
+2025-05-22 19:19:51 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User logged in and navigated to inventory page
+2025-05-22 19:19:51 [pool-1-thread-1] INFO  com.bdd.test.stepdefintions.AutomationPracticeSteps - Automation practice site launched
+2025-05-22 19:19:52 [pool-1-thread-2] INFO  com.bdd.test.hooks.LoginHooks - driver quit
+2025-05-22 19:19:52 [pool-1-thread-1] INFO  com.bdd.test.stepdefintions.AutomationPracticeSteps - Selected send text to text box
+2025-05-22 19:19:52 [pool-1-thread-1] INFO  com.bdd.test.stepdefintions.AutomationPracticeSteps - text displayed in text box successfully
+2025-05-22 19:19:52 [pool-1-thread-1] INFO  com.bdd.test.hooks.LoginHooks - driver quit
+2025-05-22 19:19:54 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - Browser URL setup done
+2025-05-22 19:19:54 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User is in login page
+2025-05-22 19:19:54 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User entered valid credentials and clicked submit button in login page
+2025-05-22 19:19:54 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User logged in and navigated to inventory page
+2025-05-22 19:19:55 [pool-1-thread-2] INFO  com.bdd.test.hooks.LoginHooks - driver quit
+2025-05-22 19:19:56 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - Browser URL setup done
+2025-05-22 19:19:56 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User is in login page
+2025-05-22 19:19:57 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User entered invalid credentials and clicked submit button in login page
+2025-05-22 19:19:57 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User logged in and navigated to inventory page
+2025-05-22 19:19:57 [pool-1-thread-2] INFO  com.bdd.test.hooks.LoginHooks - driver quit
+2025-05-22 19:22:58 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - Browser URL setup done
+2025-05-22 19:22:58 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User is in login page
+2025-05-22 19:22:59 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User entered valid credentials and clicked submit button in login page
+2025-05-22 19:22:59 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User logged in and navigated to inventory page
+2025-05-22 19:22:59 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - Browser URL setup done
+2025-05-22 19:22:59 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User is in login page
+2025-05-22 19:23:00 [pool-1-thread-1] INFO  com.bdd.test.stepdefintions.AutomationPracticeSteps - Automation practice site launched
+2025-05-22 19:23:00 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User entered valid credentials and clicked submit button in login page
+2025-05-22 19:23:00 [pool-1-thread-1] INFO  com.bdd.test.stepdefintions.AutomationPracticeSteps - Selected send text to text box
+2025-05-22 19:23:00 [pool-1-thread-1] INFO  com.bdd.test.stepdefintions.AutomationPracticeSteps - text displayed in text box successfully
+2025-05-22 19:23:41 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - Browser URL setup done
+2025-05-22 19:23:41 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User is in login page
+2025-05-22 19:23:42 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User entered valid credentials and clicked submit button in login page
+2025-05-22 19:23:42 [pool-1-thread-1] INFO  com.bdd.test.stepdefintions.AutomationPracticeSteps - Automation practice site launched
+2025-05-22 19:23:42 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User logged in and navigated to inventory page
+2025-05-22 19:23:42 [pool-1-thread-2] INFO  com.bdd.test.hooks.LoginHooks - driver quit
+2025-05-22 19:23:43 [pool-1-thread-1] INFO  com.bdd.test.stepdefintions.AutomationPracticeSteps - Selected send text to text box
+2025-05-22 19:23:43 [pool-1-thread-1] INFO  com.bdd.test.stepdefintions.AutomationPracticeSteps - text displayed in text box successfully
+2025-05-22 19:23:43 [pool-1-thread-1] INFO  com.bdd.test.hooks.LoginHooks - driver quit
+2025-05-22 19:23:45 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - Browser URL setup done
+2025-05-22 19:23:45 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User is in login page
+2025-05-22 19:23:45 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User entered valid credentials and clicked submit button in login page
+2025-05-22 19:23:45 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User logged in and navigated to inventory page
+2025-05-22 19:23:45 [pool-1-thread-2] INFO  com.bdd.test.hooks.LoginHooks - driver quit
+2025-05-22 19:23:47 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - Browser URL setup done
+2025-05-22 19:23:47 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User is in login page
+2025-05-22 19:23:47 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User entered invalid credentials and clicked submit button in login page
+2025-05-22 19:23:47 [pool-1-thread-2] INFO  com.bdd.test.stepdefintions.LoginSteps - User logged in and navigated to inventory page
+2025-05-22 19:23:48 [pool-1-thread-2] INFO  com.bdd.test.hooks.LoginHooks - driver quit

@@ -2,6 +2,7 @@ package com.bdd.test.hooks;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.junit.AfterClass;
 import org.openqa.selenium.WebDriver;
 
 import com.bdd.test.utility.SharedDriver;
